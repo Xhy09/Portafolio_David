@@ -17,16 +17,16 @@ Este proyecto es un sitio web de portafolio personal desarrollado con **HTML5 se
 
 ## 🚀 Ver Sitio en Vivo
 
-> 🌍 [https://tuusuario.github.io/portafolio-david](https://tuusuario.github.io/portafolio-david)  
-> *(Reemplaza con tu enlace real si usas GitHub Pages)*
+> 🌍 https://xhy09.github.io/Portafolio_David/
+
 
 ## 🎥 Video de Demostración
 
-> 📹 [Ver Video del Proyecto](https://drive.google.com/tu_video_o_youtube_link)  
-> *(Incluye un video corto mostrando el sitio funcionando en escritorio y móvil)*
+> 📹 https://drive.google.com/file/d/1_C1HGqbATFWJtYGG_NYbxJSq2Tp_Sj1n/view?usp=sharing
+
 
 ## 🧾 Autor
 
 - **David**
 - Estudiante de Desarrollo Web / Software
-- [https://github.com/tuusuario](https://github.com/tuusuario)
+
